@@ -1,6 +1,6 @@
 # Ladder Name: 7 - Codeforces Div. 2, D
 ## Description
- List of random Codeforces problems, all of them are Div. 2 D problems. The problems are sorted, the most solved problem comes first. This is a good practice for whoever can solve almost all Div. 2 A, B and C problems, but might have some difficulties while solving the C problems.
+ List of random Codeforces problems, all of them are Div. 2 D problems. The problems are sorted, the most solved problem comes first. This is a good practice for whoever can solve almost all Div. 2 A, B and C problems, but might have some difficulties while solving the D problems.
 ## Difficulty Level: 5
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
